@@ -2,7 +2,7 @@
 
 # PROJECT TITLE
 
-Visualizing and Predicting Heart Diseases with an Interactive Dash Board
+# Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
 - Team Leader - Kevin Daniel P
 - Team Members 
